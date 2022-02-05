@@ -1,0 +1,9 @@
+body {
+
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: hsl(345, 85%, 74%);
+    display: flex;
+    justify-content: center;
+
+}
+
