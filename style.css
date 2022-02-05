@@ -1,9 +1,52 @@
 body {
 
     font-family: 'Josefin Sans', sans-serif;
-    background-color: hsl(345, 85%, 74%);
+    background-color: hsl(162, 36%, 75%);
     display: flex;
     justify-content: center;
 
 }
 
+.title{
+
+    font-weight: bolder;
+
+    font-family:'Times New Roman', Times, serif;
+
+    font-size: 30px;
+
+    text-align: center;
+
+   
+
+}
+
+h2 {
+
+    color: rgb(27, 46, 214);
+
+}
+
+.footer {  
+
+    font-weight: bolder;
+
+    position:absolute;
+
+    padding: 10px 10px 0px 10px;
+
+    bottom: 0;
+
+    width: 100%;
+
+    height: 90px;
+
+    background: rgb(119, 179, 135);
+
+    text-align: center;
+
+
+
+   
+
+    }  
